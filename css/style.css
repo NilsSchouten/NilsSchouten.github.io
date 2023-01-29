@@ -6,6 +6,7 @@ body{
 	background: url('../img/general/wood_board.png');
 	}
 .banner {
+		width: 100%;
 		z-index: 10;
 		position: sticky;
 		top: 0;
